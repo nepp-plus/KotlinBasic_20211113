@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
 //            이 내부의 코드는, 로그 찍기 버튼을 누를때마다 실행됨.
 
             Log.d( "메인화면", "로그 찍기 버튼 누름" )
+            Log.e("메인화면", "e 로 로그 찍어보기")
+
 
         }
 
